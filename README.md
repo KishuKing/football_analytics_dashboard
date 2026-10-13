@@ -73,6 +73,7 @@ streamlit run app.py
 ```
 
 The app will open automatically at **http://localhost:8501**.
+Or Click this link: https://footballanalyticsdashboardibm.streamlit.app/
 
 > If `football_players.csv` is missing when the app starts, it is generated automatically.
 
